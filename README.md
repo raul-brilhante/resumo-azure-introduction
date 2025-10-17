@@ -21,3 +21,12 @@ Por fim, foi dito que os provedores de serviços em nuvem operam em um modelo ba
 - Segurança: A nuvem oferece ferramentas de segurança que atendem às necessidades dos clientes.
 - Governança: Relações relacionadas a gestão. Qualquer coisa que esteja fora do seu contexto de negócio pode ser alterada, dependendo do seu modelo operacional; patches de software e atualizações podem ser aplicados automaticamente. É bom estabelecer a governança o mais cedo possível, ajudando a manter a sua presença de nuvem atualizada, protegida e bem gerenciada.
 - Gerenciabilidade: Capacidade de gerenciamento. Isso se diz respeito a capacidade de gerenciar seus recursos de nuvem; e implantar recursos com base em um modelo pré-configurado, removendo a necessidade de quaisquer configurações manuais.
+
+
+# Um breve resumo do módulo "Tipos de Serviço de Nuvem na Azure"
+
+- IaaS: Infraestrutura como Serviço -> Recursos e Serviços onde os clientes tem mais acesso. Temos mais acesso e liberdade para trabalhar. Serviço de nuvem mais flexível. Você configura e gerencia o hardware para seu aplicativo.
+- PaaS: Plataforma como Serviço -> Fornece ambiente para a criação, teste e a implantação de aplicativos de software, sem focar no gerenciamento da infraestrutura subjacente. Focado no desenvolvimento do aplicativo. O gerenciamento de plataforma é realizado pelo provedor de nuvem.
+- SaaS: Software como Serviço -> A aplicação já existe, já está pronta e o que determina o que ela entrega é o modelo de licenciamento adquirido. Modelo de preço de pagamento conforme uso. Os usuários pagam pelo software que utilizam em um modelo de assinatura.
+
+Modelo de Responsabilidade Compartilhada nos dá uma tabela que define como fica as questões de responsabilidade entre cliente e Microsoft, referente a IaaS, PaaS e SaaS.
